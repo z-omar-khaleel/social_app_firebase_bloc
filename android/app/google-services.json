@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "609024055312",
+    "firebase_url": "https://flutterads-2a829.firebaseio.com",
+    "project_id": "flutterads-2a829",
+    "storage_bucket": "flutterads-2a829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609024055312:android:573c6c32b8e061cff8d295",
+        "android_client_info": {
+          "package_name": "com.example.flutter_abd_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609024055312-7lnq4bavkgvai5ai2r4r0ibq0ginloj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbklT-Il7ja1K_-eNbHay_WLtnrLX0km8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609024055312-7lnq4bavkgvai5ai2r4r0ibq0ginloj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "609024055312-8sfnislp0g9p4fnp3mnj4nrvgsl8mv9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAds"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609024055312:android:a25f9e53fc82614af8d295",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609024055312-7lnq4bavkgvai5ai2r4r0ibq0ginloj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbklT-Il7ja1K_-eNbHay_WLtnrLX0km8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609024055312-7lnq4bavkgvai5ai2r4r0ibq0ginloj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "609024055312-8sfnislp0g9p4fnp3mnj4nrvgsl8mv9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAds"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7854405699094768~4704260712"
+    }
+  ],
+  "configuration_version": "1"
+}
